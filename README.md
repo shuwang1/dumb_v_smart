@@ -19,13 +19,15 @@ Later in 2011 with the emerging of M2M or IoT devices and services, the industry
 Different from the one suggested in smart antenna design, the smartness defined here is the in-advance information of the transmission timing (Smartness I),  the received signal power (Smartness II) and the signal signature (Smartness III) of the access probes sent by other coexisting users.  
 
 ### Smartness I: Access Timing
-
+From a network engineering perspective, the most well-known, widely studied and implemented access channel collision mitigation scheme is the slotted ALOHA scheme.  The idea behind slotted ALOHA is, the access collision happen is because the involved users have no beforehand tranmsssion timing information of other users, which is Smartness I.  Accordingly, slotted ALOHA believes excessive randomness is bad and regulation is the way for reducing access collision and improving throughput.  Otherwise, according to ALOHA, if Smartness I is available, it is possible for all invovled users to regulate their transmssion by their own to achieve the optimal channel capacity.       
 
 ### Smartness II: Received Signal Power
+From an information theory perspective, the multi-access channel capacity is acheievable through power control (Smartness II) and interference cancellation (Smartness III).  
+
 
 
 ### Smartness III: Signal Signature
-
+From a signal processing perspective, the signal signature information of other involved users is the key ingredient for advanced multiuser receiver design (Smartness III).
 
 
 The principle of the dumb access protocol suggested here can be used for improving random access capacity.  The targeted applications, for example, includes improving IoT network capacity.
