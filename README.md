@@ -14,7 +14,7 @@ Katrine disaster, https://en.wikipedia.org/wiki/Hurricane_Katrina, the industry 
 Later in 2011 with the emerging of M2M or IoT devices and services, the industry predicted that there would be another acccess congestion challenge soon, providing millions or even billions of low-cost IoT devices to be deployed in the 3G/3.5G/4G mobile networks.  This time, I made another contribution to 3GPP2 with a completely different thinking.  Instead of further prioritizing and randomizing network accesses,  I proposed a kind of new access probe and reception design.  Instead of proposing smarter or more powerful access probes, I proposed dumbe, low rate and low power access probes.  The good news is, this contribution was also accepted by 3GPP2 after harmonzed with Qualcomm's framework contributions.  
 
 
-## WHAT IS THE SMARTNESS DISCUSSED HERE?
+## WHAT KIND OF SMARTNESS IS DISCUSSED HERE?
 
 Different from the one suggested in smart antenna design, the smartness defined here is the in-advance information of the transmission timing (Smartness I),  the received signal power (Smartness II) and the signal signature (Smartness III) of the access probes sent by other coexisting users.  
 
@@ -25,11 +25,11 @@ From a network engineering perspective, the most well-known, widely studied and 
 From an information theory perspective, the multi-access channel capacity is acheievable through power control (Smartness II) and interference cancellation (Smartness III).  
 
 
-
 ### Smartness III: Signal Signature
 From a signal processing perspective, the signal signature information of other involved users is the key ingredient for advanced multiuser receiver design (Smartness III).
 
-
+## Conclusion
+TBD
 The principle of the dumb access protocol suggested here can be used for improving random access capacity.  The targeted applications, for example, includes improving IoT network capacity.
 
 
