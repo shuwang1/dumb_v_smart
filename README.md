@@ -8,16 +8,23 @@ It is widely believe, smarter is always better. In many cases, the smart wins la
 
 In this random access channel design project, I, however, want to show that due to many implementation limitations and considerations, the dumb may sometimes win also, even though it has the least prior knowledge (e.g., the tranmission power and timing) of others users.  
 
-
 The very early beginning of this project started when I was working for LG Electronics Mobile Research on a project in 2005 for impproving the reverse link channel capcity of 3G/CDMA2000 mobile network. At that time after Hurrican
 Katrine disaster, https://en.wikipedia.org/wiki/Hurricane_Katrina, the industry suddenly realized that the 3G ALOHA based reverse link design could hardly accommendate the simultaneous access requests by a large amount of users in    some emergent situations and crowd events.  However, besides the group-based prioritization and futher randmonization on random channel accesses, the indstry couldn't figure out better and feasible systematic changes, which may significantly mitigate the reverse-link access congestion issue. (Indeed, we had some group policy based randominzation scheme proposed and accepted into 3G/CDMA2000 standards at that time.)
-
 
 Later in 2011 with the emerging of M2M or IoT devices and services, the industry predicted that there would be another acccess congestion challenge soon, providing millions or even billions of low-cost IoT devices to be deployed in the 3G/3.5G/4G mobile networks.  This time, I made another contribution to 3GPP2 with a completely different thinking.  Instead of further prioritizing and randomizing network accesses,  I proposed a kind of new access probe and reception design.  Instead of proposing smarter or more powerful access probes, I proposed dumbe, low rate and low power access probes.  The good news is, this contribution was also accepted by 3GPP2 after harmonzed with Qualcomm's framework contributions.  
 
 
 ## WHAT IS THE SMARTNESS DISCUSSED HERE?
 
+Different from the one suggested in smart antenna design, the smartness defined here is the in-advance information of the transmission timing (Smartness I),  the received signal power (Smartness II) and the signal signature (Smartness III) of the access probes sent by other coexisting users.  
+
+### Smartness I: Access Timing
+
+
+### Smartness II: Received Signal Power
+
+
+### Smartness III: Signal Signature
 
 
 
