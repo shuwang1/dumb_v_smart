@@ -25,7 +25,7 @@ From a network engineering perspective, the most well-known, widely studied and 
 From an information theory perspective, the multi-access channel capacity is acheievable through power control (Smartness II) and interference cancellation (Smartness III).  
 
 
-### Smartness III: Signal Signature
+### Smartness III: Signal Signatures of Other Involved Users
 From a signal processing perspective, the signal signature information of other involved users is the key ingredient for advanced multiuser receiver design (Smartness III).
 
 ## Conclusion
