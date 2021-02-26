@@ -3,6 +3,7 @@
 -- Can Dumb Beat Smart?
 
 ##BACKGROUND
+
 It is widely believe, smarter is always better. In many cases, the smart wins largely because it has more prior knowledge, which the dumb does't have, and the smart workes harder than the dumb.  In wireless communication and networking, the prior knowledge usually includes the information of next channel condition, the transmission timing and transmission power of other coexiting users.  In the literature, knowing prior knowledge have long been established and demonstrated to be beneficial in achieving optimal performance in uplink access probes design and advance multiuser receiver design, especially comparing with simple and "dumb" traditional approaches.  
 
 In this random access channel design project, I, however, want to show that due to many implementation limitations and considerations, the dumb may sometimes win also, even though it has the least prior knowledge (e.g., the tranmission power and timing) of others users.  At the very early beginning when I was working for LG Electronics Mobile Research on a project in 2005 for impproving the reverse link channel capcity of 3G/CDMA2000. At that time after Hurrican
