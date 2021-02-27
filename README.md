@@ -13,6 +13,10 @@ Katrine disaster, https://en.wikipedia.org/wiki/Hurricane_Katrina, the industry 
 
 Later in 2011 with the emerging of M2M or IoT devices and services, the industry predicted that there would be another acccess congestion challenge soon, providing millions or even billions of low-cost IoT devices to be deployed in the 3G/3.5G/4G mobile networks.  This time, I made another contribution to 3GPP2 with a completely different thinking.  Instead of further prioritizing and randomizing network accesses,  I proposed a new kind of access probe and reception design. Instead of proposing much smarter or more powerful access probes, I proposed dumbe, low rate and low power access probes.  The good news is, this contribution was also accepted by 3GPP2 after harmonzed with Qualcomm's framework contributions.
 
+## WHAT IS THE DIFFERENCE AND WHAT WILL WE LEARN HERE?
+
+As suggested from ALOHA protocols and as well as multiuser receiver design theory, traditional thinking is, more prior information is available, more aggresive computation is conducted and better performance may be archievable. The opposite has usually been true as well. In this project, I want to demonstrate an interesting design, in which an optimal access channel throughput is archieable without knowledge of other coexisting users or additional computation burden on the receiver side.
+
 
 ## WHAT KIND OF SMARTNESS IS DISCUSSED HERE?
 
