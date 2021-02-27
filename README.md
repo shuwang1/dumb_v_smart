@@ -29,7 +29,7 @@ From an information theory perspective, the multi-access channel capacity is ach
 From a signal processing perspective, the signal signature information of other involved users is the key ingredient for advanced multiuser receiver design (Smartness III).
 
 ## HOW DUMB IS THE PROPOSED ACCESS PROBE?
-In princple, there is almost no difference between the proposed access probe and other simplestt access probes, except the dumb access probe is designed to have a very low coding rate or very high processing gain, low transmission power and its transmission period spans more than one acknewledge cycle.
+In princple, there is almost no difference between the proposed access probe and other simplestt access probes, except the dumb access probe is designed to have a very low coding rate or very high processing gain, low transmission power and its transmission period spans more than one acknewledgement opportunity cycle.
 
 
 ## Conclusion
