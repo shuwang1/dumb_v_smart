@@ -28,6 +28,10 @@ From an information theory perspective, the multi-access channel capacity is ach
 ### Smartness III: Signal Signatures of Other Involved Users
 From a signal processing perspective, the signal signature information of other involved users is the key ingredient for advanced multiuser receiver design (Smartness III).
 
+## HOW DUMB IS THE PROPOSED ACCESS PROBE?
+In princple, there is almost no difference between the proposed access probe and other simplestt access probes, except the dumb access probe is designed to have a very low coding rate or very high processing gain, low transmission power and its transmission period spans more than one acknewledge cycle.
+
+
 ## Conclusion
 TBD
 The principle of the dumb access protocol suggested here can be used for improving random access capacity.  The targeted applications, for example, includes improving IoT network capacity.
